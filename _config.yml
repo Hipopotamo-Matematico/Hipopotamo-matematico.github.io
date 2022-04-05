@@ -19,9 +19,9 @@ navbar-links:
   Recursos:
     - Documentos: "https://beautifuljekyll.com"
     - Software: "https://www.markdowntutorial.com/"
-  Item: "https://beautifuljekyll.com"
+    - Otro Item: "https://beautifuljekyll.com"
+    - Item: "https://beautifuljekyll.com"
   Item2 : "https://beautifuljekyll.com"
-  Otro Item: "https://beautifuljekyll.com"
   Desarrollador: "https://deanattali.com"
 
 # --- Logo --- #
@@ -84,7 +84,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
