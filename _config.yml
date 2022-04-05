@@ -6,15 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Hipopótamo Matemático
 
 # Your name to show in the footer
-author: Some Person
+author: Aria Sofía Reyes Solís
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+#  About Me: "aboutme"
+  Acerca de: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
