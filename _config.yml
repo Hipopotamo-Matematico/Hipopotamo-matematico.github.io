@@ -16,10 +16,13 @@ author: Aria Sofía Reyes Solís
 navbar-links:
 #  About Me: "aboutme"
   Acerca de: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Recursos:
+    - Documentos: "https://beautifuljekyll.com"
+    - Software: "https://www.markdowntutorial.com/"
+  Item: "https://beautifuljekyll.com"
+  Item2 : "https://beautifuljekyll.com"
+  Otro Item: "https://beautifuljekyll.com"
+  Desarrollador: "https://deanattali.com"
 
 # --- Logo --- #
 
