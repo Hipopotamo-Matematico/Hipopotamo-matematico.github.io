@@ -18,11 +18,8 @@ navbar-links:
   Acerca de: "aboutme"
   Recursos:
     - Docs: "docs"
-    - Software: "https://www.markdowntutorial.com/"
-    - Otro Item: "https://beautifuljekyll.com"
-    - Item: "https://beautifuljekyll.com"
-  Item2 : "https://beautifuljekyll.com"
-  Desarrollador: "https://deanattali.com"
+    - Software: "soft"
+  Desarrollador: "flisol-i3.github.io"
 
 # --- Logo --- #
 
