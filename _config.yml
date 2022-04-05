@@ -14,12 +14,11 @@ author: Aria Sofía Reyes Solís
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#  About Me: "aboutme"
   Acerca de: "aboutme"
   Recursos:
     - Docs: "docs"
-    - Software: "soft"
-  Desarrollador: "flisol-i3.github.io"
+    - Software: "software"
+  Desarrollador: "https://flisol-i3.github.io"
 
 # --- Logo --- #
 
