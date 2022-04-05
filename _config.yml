@@ -17,7 +17,7 @@ navbar-links:
 #  About Me: "aboutme"
   Acerca de: "aboutme"
   Recursos:
-    - Documentos: "https://beautifuljekyll.com"
+    - Docs: "https://beautifuljekyll.com"
     - Software: "https://www.markdowntutorial.com/"
     - Otro Item: "https://beautifuljekyll.com"
     - Item: "https://beautifuljekyll.com"
