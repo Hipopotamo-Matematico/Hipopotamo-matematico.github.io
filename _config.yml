@@ -17,7 +17,7 @@ navbar-links:
   Acerca de: "aboutme"
   Recursos:
     - Docs: "docs"
-    - Software: "software"
+    - Software: "docs"
   Desarrollador: "https://flisol-i3.github.io"
 
 # --- Logo --- #
